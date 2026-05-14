@@ -37,4 +37,4 @@ Durante mis estudios he aprendido sobre Python, C++ (no a profundidad) y Java.
 
 ## 💬 algo más
 
-Aspiro a ser un buen desarrollador en un futuro.
+Aspiro a ser un mejor desarrollador en un futuro.
