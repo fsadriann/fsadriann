@@ -23,18 +23,15 @@ Durante mis estudios he aprendido sobre Python, C++ (no a profundidad) y Java.
 
 | proyecto | descripción |
 |----------|-------------|
-| 🍔 **FoodUPB** | Sistema de pedidos de comida con arquitectura cliente-servidor usando Java RMI |
+| 🍔 **FoodUPB** | Sistema de pedidos de comida con arquitectura cliente-servidor usando Java RMI y MVC|
 
 > Iré sumando más cosas acá a medida que las construya.
 
 ---
 
-## 📈 estadísticas
+## 📈 stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=fsadriann&theme=transparent)](https://git.io/streak-stats)
 
 ---
 
